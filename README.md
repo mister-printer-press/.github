@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/mister-printer-press/.github/img/header.png "Header")](https://misterprinter.app)
+[![Header](https://raw.githubusercontent.com/mister-printer-press/.github/main/img/header.png "Header")](https://misterprinter.app)
 
 ### Which repos are used for what?
  - `frontend`
